@@ -43,7 +43,7 @@ dependencies {
 	}
 	testImplementation("org.scilab.forge:jlatexmath:1.0.7")
 
-	"pdfRuntimeOnly"("org.apache.xmlgraphics:fop:2.9")
+	"pdfRuntimeOnly"("org.apache.xmlgraphics:fop:2.12")
 	"pdfRuntimeOnly"("org.apache.xmlgraphics:batik-all:1.17")
 }
 
