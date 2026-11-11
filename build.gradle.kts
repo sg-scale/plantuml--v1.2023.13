@@ -28,7 +28,7 @@ java {
 }
 
 dependencies {
-	compileOnly("org.apache.ant:ant:1.10.14")
+	compileOnly("org.apache.ant:ant:1.10.18")
 
 	testImplementation("io.github.glytching:junit-extensions:2.6.0")
 	testImplementation("org.assertj:assertj-core:3.24.2")
